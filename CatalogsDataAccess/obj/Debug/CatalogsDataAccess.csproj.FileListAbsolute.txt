@@ -1,0 +1,9 @@
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\bin\Debug\CatalogsDataAccess.dll
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\bin\Debug\CatalogsDataAccess.pdb
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\bin\Debug\CatalogsModel.dll
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\bin\Debug\CatalogsModel.pdb
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\obj\Debug\CatalogsDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\obj\Debug\CatalogsDataAccess.csproj.CopyComplete
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\obj\Debug\CatalogsDataAccess.dll
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\obj\Debug\CatalogsDataAccess.pdb
+C:\Users\sergi\source\repos\Catalogs\CatalogsDataAccess\obj\Debug\CatalogsDataAccess.csprojAssemblyReference.cache

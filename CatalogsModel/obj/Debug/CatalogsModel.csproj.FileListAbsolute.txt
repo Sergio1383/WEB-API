@@ -1,0 +1,6 @@
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\bin\Debug\CatalogsModel.dll
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\bin\Debug\CatalogsModel.pdb
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\obj\Debug\CatalogsModel.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\obj\Debug\CatalogsModel.dll
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\obj\Debug\CatalogsModel.pdb
+C:\Users\sergi\source\repos\Catalogs\CatalogsModel\obj\Debug\CatalogsModel.csprojAssemblyReference.cache
